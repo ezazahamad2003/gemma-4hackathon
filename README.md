@@ -1,6 +1,6 @@
-# Cactus + Gemma-4 Voice Agent (Windows via WSL2)
+# Research: Cactus + Gemma-4 Audio Mirror Agent (WSL2)
 
-This repository contains a minimal voice-to-voice agent using the Cactus Python SDK and Google Gemma 4 (E2B) that mirrors the user's spoken language (e.g., responds in Spanish when the user speaks Spanish).
+This repository contains research-focused tooling demonstrating low-latency audio reasoning with the Cactus SDK and Google Gemma 4 (E2B). The example agent mirrors the user's spoken language and is intended for experimentation and reproducible research.
 
 Quick steps (high-level):
 
